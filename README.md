@@ -11,7 +11,7 @@ This project provides for the execution of tests on RestAssured services of http
 
 ###Download project
 ```
-$ git clone https://tfs.roseninspection.net/tfs/RNDCollection/Janus/_git/CircumferentialDetection
+$ git clone https://github.com/lcamiloch/RestAssured.git
 ```
 
 ###Run project
