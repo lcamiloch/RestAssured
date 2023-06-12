@@ -1,4 +1,4 @@
-package cl.cenco.qa.tasks;
+package cl.cenco.qa.task;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;

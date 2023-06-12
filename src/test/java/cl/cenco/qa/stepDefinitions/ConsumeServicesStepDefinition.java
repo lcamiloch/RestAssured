@@ -1,8 +1,8 @@
 package cl.cenco.qa.stepDefinitions;
 
 import cl.cenco.qa.questions.ResponseCodeQuestion;
-import cl.cenco.qa.tasks.CreateUserTask;
-import cl.cenco.qa.tasks.GetUserTask;
+import cl.cenco.qa.task.CreateUserTask;
+import cl.cenco.qa.task.GetUserTask;
 import cl.cenco.qa.utils.CommonProperties;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
