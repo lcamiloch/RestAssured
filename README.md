@@ -16,14 +16,8 @@ $ git clone https://github.com/lcamiloch/RestAssured.git
 
 ###Run project
 ```
-The file "ExecutionRunner" must be executed.
-```
-
-###Create report
-```
-After the execution in the command line:
-$ mvn serenity:aggregate
+$ mvn clean verify
 ```
 
 ###Demo video
-https://drive.google.com/file/d/1g0lQXvKhdJRy3Ftoku-r_2BeC9fB3zQ7/view?usp=drive_link
+https://drive.google.com/file/d/1ytcgMDUjNwPf5Wz8PYo42wSTKQcKbyuy/view?usp=sharing

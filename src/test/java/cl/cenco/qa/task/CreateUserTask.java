@@ -1,4 +1,4 @@
-package cl.cenco.qa.tasks;
+package cl.cenco.qa.task;
 
 import cl.cenco.qa.models.UsersModel;
 import io.restassured.http.ContentType;
@@ -9,11 +9,6 @@ import net.serenitybdd.screenplay.rest.interactions.Post;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-/**
- * @autor: Camilo Chaparro
- * @version: 1.0.0
- * @since: 1.0.0
- */
 public class CreateUserTask implements Task {
 
     private final String tittle;

@@ -9,7 +9,7 @@ import net.serenitybdd.screenplay.Question;
  * @version: 1.0.0
  * @since: 1.0.0
  */
-public class ResponseCodeQuestion implements Question {
+public class ResponseCodeQuestion implements Question{
 
     public static Question<Integer> was(){
         return new ResponseCodeQuestion();
