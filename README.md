@@ -15,8 +15,14 @@ $ git clone https://github.com/lcamiloch/RestAssured.git
 ```
 
 ###Run project
+* Run all scenarios
 ```
 $ mvn clean verify
+```
+
+* Run with tags
+```
+$ mvn clean verify -Dtags="{tag name}"
 ```
 
 ###Demo video

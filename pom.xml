@@ -11,7 +11,7 @@
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>3.3.10</serenity.version>
+        <serenity.version>3.8.1</serenity.version>
 
         <encoding>UTF-8</encoding>
     </properties>
